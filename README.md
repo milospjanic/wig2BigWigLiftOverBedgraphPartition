@@ -1,1 +1,2 @@
-# wig2bigWigLiftOverBedgraphPartition
+# wig2BigWigLiftOverBedgraphPartition
+
